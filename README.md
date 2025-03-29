@@ -26,9 +26,9 @@
 
  
 
-### :woman_technologist: About Me :
+### :men_technologist: About Me :
 
-- 👋 Hello! I'm Neeraj Lembhe, a BE graduate in Electronics and Telecommunication from PICT Pune.
+- 👋 Hello! I'm Neeraj Lembhe, a BE graduate in Electronics and Telecommunication from PICT, Pune.
 - 📚 Currently, pursuing MBA from PUMBA, specializing in Operations and Marketing.
 - 💻 I am a dynamic and results-oriented professional with experience in operations, data analytics, and process optimization.
 - Proven track record in enhancing efficiency, streamlining processes, and driving data-driven decision-making. Strong problem-solving and stakeholder management abilities, with a proactive approach to leadership and teamwork.
