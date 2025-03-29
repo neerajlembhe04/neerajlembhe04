@@ -6,9 +6,9 @@
 
 <div id="badges" align="center">
 
-  <a href="www.linkedin.com/in/ketaki-khengre-a9941217b">
+  <a href="www.linkedin.com/in/neeraj-lembhe-1a9819197">
 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
   </a>
 
