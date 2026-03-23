@@ -28,10 +28,10 @@
 
 ###  About Me :
 
-- 👋 Hello! I'm Neeraj Lembhe, a BE graduate in Electronics and Telecommunication from PICT, Pune.
-- 📚 Currently, pursuing MBA from PUMBA, specializing in Operations and Marketing.
-- 💻 I am a dynamic and results-oriented professional with experience in operations, data analytics, and process optimization.
-- Proven track record in enhancing efficiency, streamlining processes, and driving data-driven decision-making. Strong problem-solving and stakeholder management abilities, with a proactive approach to leadership and teamwork.
+-Results-driven Operations and Marketing professional with ~2 years of experience across manufacturing, production support, and procurement environments. 
+-Demonstrated expertise in ERP-based inventory control, production process optimization, and supply chain management. 
+-Track record of deploying shopfloor operational systems that improve material availability and reduce process inefficiencies. 
+-Adept at cross-functional coordination between production, procurement, and quality teams to drive operational excellence in manufacturing settings.
 
 
 ---
@@ -39,10 +39,9 @@
 
 ### :hammer_and_wrench: Technical expertise :
 
-- Microsoft Excel
-- POWER BI
-- SQL
-- Supply chain analytics
+- Supply Chain Analytics, Material Management, Warehouse Operations, Logistics Management
+- Lean operations, 5S, Kaizen, Agile Methodologies, Project Management Fundamentals
+- Microsoft Excel, POWER BI, SQL
 
 ---
 
